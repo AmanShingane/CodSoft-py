@@ -5,7 +5,7 @@ import string, random
 
 root = Tk()
 root.geometry("500x500")
-root.title("Kunal Password Generator")
+root.title("Aman Password Generator")
 root.config(bg="beige")
 root.resizable(False, False)
 
